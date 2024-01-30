@@ -1,0 +1,5 @@
+# you just run command $streamlit run main.py
+
+pandas
+streamlit
+sikitlearn
